@@ -45,7 +45,7 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Suhail-Md' // Source URL
+var surl = 'https://github.com/Prexzybooster/Suhail-Md' // Source URL
 const number = '2349159895444'
 var name = ' Precious Ayomide'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
